@@ -8,11 +8,11 @@
 
 真话转谎言：
 
-![truth2lie.webp](https://github.com/saveChina19890604/saveChina19890604/blob/master/truth2lie.webp?raw=true)
+![truth2lie.png](https://github.com/saveChina19890604/saveChina19890604/blob/master/truth2lie.png?raw=true)
 
 谎言转真话：
 
-![lie2truth.webp](https://github.com/saveChina19890604/saveChina19890604/blob/master/lie2truth.webp?raw=true)
+![lie2truth.png](https://github.com/saveChina19890604/saveChina19890604/blob/master/lie2truth.png?raw=true)
 
 [下载反审查助手 App（Android）](https://github.com/saveChina19890604/saveChina19890604/blob/master/savechina.apk?raw=true)
 
